@@ -6,3 +6,5 @@ This change comes from my Mac.
 This change comes from develop branch
 
 Testing version v1
+
+Cancel the update
